@@ -27,11 +27,6 @@ Next:
 Then:
 `npm i`
 
-Additionally:
-make sure you download this file (contains hidden api key). in the real world, we would hide these variables AWAY from the public, but for the sake of the project, they are listed here: https://drive.google.com/file/d/1T9OoBOs_-zFJo7hzaeJoK3T2vpZuhoR4/view?usp=sharing
-
-make sure that you place this file into `./src/helper/` directory
-
 Finally:
 `npm run dev`
 
