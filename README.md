@@ -1,5 +1,9 @@
 # ShopifyFrontEndDevChallenge
 
+# Demo
+I have included a demo video for this application for the sake of convinence and in case something goes wrong with the hosting.
+Video: 
+
 
 # Dependencies
 
